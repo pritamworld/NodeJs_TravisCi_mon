@@ -1,5 +1,7 @@
 # Creating node Project
 
+[![Build Status](https://travis-ci.org/truckieutk/NodeJs_TravisCi_mon.svg?branch=master)](https://travis-ci.org/truckieutk/NodeJs_TravisCi_mon)
+
 
 - mkdir week03_node_example
 - cd week03_node_example
